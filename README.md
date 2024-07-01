@@ -1,5 +1,5 @@
 ### About me
-- 👀 I’m interested in ...
+- 👀 I’m interested in Linux and BSD
 - 🌱 I’m currently learning the very basics in Java programming
 
 - ⚡ Fun fact: I like Brasilian music genres like MPB, Forró, Samba, Brega.
