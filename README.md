@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @perfrosk
+### About me
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning the very basics in Java programming
 
